@@ -22,4 +22,34 @@ Detecção de transações fraudulentas utilizando Machine Learning.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/giimvm/fraud-detection-ml.git
+git clone https://github.com/giimvm/deteccao-de-fraudes-ml.git
+```
+Instale as dependências
+
+```bash
+pip install -r requirements.txt
+```
+
+## Execução
+
+Execute o pipeline principal:
+
+```bash
+python main.py
+```
+
+## Modelos Testados
+
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+## Técnicas Aplicadas
+
+- StandardScaler
+- SMOTE
+- Feature Importance
+- ROC Curve
+- SHAP
+- GridSearchCV
+>>>>>>> c75e35304d46c5ef2fd9ab44ce9aeadd54e20274
