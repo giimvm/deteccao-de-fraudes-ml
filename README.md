@@ -1,1 +1,1 @@
-# detec-o-de-fraudes-ml
+# deteccao-de-fraudes-ml
